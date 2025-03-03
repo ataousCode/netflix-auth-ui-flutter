@@ -1,4 +1,7 @@
-# netflix_auth
+# netflix_auth UI with Flutter and Dart
+
+![Screenshot 2025-03-04 at 12 22 16 AM](https://github.com/user-attachments/assets/3a4b020b-6022-4e97-8f4a-20b89e2a56dc)
+
 
 A new Flutter project.
 
